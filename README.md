@@ -1,5 +1,5 @@
 # Jashancoder12.github.io
-# introduction
+# Introduction
 *My name is jashanpreet kaur*
 **I am a btech IT student**
 
